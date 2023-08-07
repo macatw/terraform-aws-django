@@ -1,0 +1,7 @@
+NOTES.md
+.terraform
+.terraform.lock.hcl
+local.tfvars
+backend.config
+errored.tfstate
+logs.txt
