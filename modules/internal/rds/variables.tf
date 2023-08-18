@@ -42,5 +42,5 @@ variable "engine" {
 
 variable "engine_version" {
   type    = string
-  default = "13.4"
+  default = "15.6"
 }
